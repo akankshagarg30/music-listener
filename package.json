@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samcbride/music-library-api.git"
+    "url": "git+https://"
   },
   "author": "Akanksha garg",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samcbride/music-library-api/issues"
+    "url": "https://github.com/akankshagarg30/music-listener"
   },
   "homepage": "https://github.com/samcbride/music-library-api#readme",
   "dependencies": {
